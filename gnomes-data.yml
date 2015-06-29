@@ -1,0 +1,4 @@
+ spring:
+   profiles: cloud
+ gnomes:
+   baseValue: 20 
