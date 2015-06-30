@@ -1,4 +1,5 @@
-
+ spring:
+  profile: cloud
  answer: 42
 
 
