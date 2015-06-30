@@ -1,6 +1,6 @@
  spring:
   profile: cloud
- answer: 42
+ answer: 21
 
 
 
