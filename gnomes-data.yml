@@ -1,4 +1,4 @@
  spring:
    profiles: cloud
  gnomes:
-   baseValue: 34 
+   baseValue: 35 
